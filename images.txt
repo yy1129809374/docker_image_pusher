@@ -1,4 +1,1 @@
-nginx
-alpine
-alpine:3.10
-openeuler:22.03-lts-sp3
+openeuler:22.03-lts
