@@ -1,1 +1,1 @@
-openeuler/bisheng-jdk
+hub.oepkgs.net/openeuler/openeuler:22.03-lts-sp3
