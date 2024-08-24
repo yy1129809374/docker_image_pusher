@@ -1,1 +1,1 @@
-hub.oepkgs.net/openeuler/openeuler:22.03-lts-sp3
+docker pull highgo/highgo
