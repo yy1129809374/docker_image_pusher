@@ -1,1 +1,1 @@
-docker pull highgo/highgo
+highgo/highgo
