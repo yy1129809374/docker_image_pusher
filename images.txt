@@ -1,2 +1,1 @@
-nacos/nacos-server:v2.2.3
-
+openresty/openresty:latest
